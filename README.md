@@ -27,14 +27,14 @@
     git reset id_commit 
 ###### удаляет все коммиты до определенного коммита и все изменения 
     git reset it_commit --hard 
-######
+###### создает новую ветку 
     git branch new_branch
-######
+###### переходит на новую ветку 
     git checkout new_branch
-######
-    git checkout -b admin 
-######
-    git merge 
+###### создает и переходит на новую ветку
+    git checkout -b branch_name
+###### соединяет текущую ветку с указанной
+    git merge example
 
 
 
