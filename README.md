@@ -24,6 +24,7 @@
 ###### переход на основную ветку 
     git checkout maser 
 ###### удалить все коммиты до определенного коммита
-    git reset id_commit
+    git reset id_commit --hard
+
 
 
