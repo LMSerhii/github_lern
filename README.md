@@ -33,7 +33,8 @@
     git checkout new_branch
 ######
     git checkout -b admin 
-
+######
+    git merge 
 
 
 
