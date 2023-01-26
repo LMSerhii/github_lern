@@ -29,4 +29,3 @@
     git reset it_commit --hard 
 
 
-
