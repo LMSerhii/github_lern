@@ -36,4 +36,10 @@
 ###### соединяет текущую ветку с указанной
     git merge example
 
+###### 
+    git remote add origin https://github.com/..../.git
+######
+    git push -u origin main
+
+
 
