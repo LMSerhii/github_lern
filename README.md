@@ -19,8 +19,11 @@
     git commit -m "text-commit"
 ###### изменения 
     git log or git log --oneline
-###### инициализация git репозитория 
-    
-###### инициализация git репозитория 
+###### переход на версию определенного коммита 
+    git checkout id_commit 
+###### переход на основную ветку 
+    git checkout maser 
+
+
 
 
