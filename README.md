@@ -24,6 +24,6 @@
 ###### переход на основную ветку 
     git checkout maser 
 
-
+    git revert 
 
 
