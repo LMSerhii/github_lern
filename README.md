@@ -27,6 +27,11 @@
     git reset id_commit 
 ###### удаляет все коммиты до определенного коммита и все изменения 
     git reset it_commit --hard 
+######
+    git branch new_branch
+######
+    git checkout new_branch
+
 
 
 
