@@ -15,11 +15,12 @@
     git status
 ###### удаление из стадии ожидания 
     git rm --cached index.html or git rm -rf cached .
-###### инициализация git репозитория 
+###### добавление в репозиторий
     git commit -m "text-commit"
+###### изменения 
+    git log or git log --oneline
 ###### инициализация git репозитория 
     
-###### инициализация git репозитория 
 ###### инициализация git репозитория 
 
 
