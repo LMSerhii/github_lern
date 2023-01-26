@@ -23,7 +23,7 @@
     git checkout id_commit 
 ###### переход на основную ветку 
     git checkout maser 
-
-    git revert 
+###### удалить все коммиты до определенного коммита
+    git reset id_commit
 
 
